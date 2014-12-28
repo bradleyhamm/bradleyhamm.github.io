@@ -1,0 +1,18 @@
+body {
+	font-family: "Open Sans", sans-serif;
+	/*background: #fff url(/images/bg-1920x1280.png) no-repeat center top fixed;*/
+	background-size: cover;
+}
+
+section {
+	margin-top: 150px;
+}
+
+section#intro {
+	margin-top: 150px;
+}
+
+#contact i {
+	font-size: 2em;
+	color: #333;
+}
