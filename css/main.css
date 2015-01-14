@@ -1,26 +1,14 @@
 body {
 	font-family: "Open Sans", sans-serif;
 	color: #454545;
-	background: rgba(255,239,156,1);
-	background: -moz-radial-gradient(center, ellipse cover, rgba(255,239,156,1) 0%, rgba(255,220,45,1) 100%);
-	background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(255,239,156,1)), color-stop(100%, rgba(255,220,45,1)));
-	background: -webkit-radial-gradient(center, ellipse cover, rgba(255,239,156,1) 0%, rgba(255,220,45,1) 100%);
-	background: -o-radial-gradient(center, ellipse cover, rgba(255,239,156,1) 0%, rgba(255,220,45,1) 100%);
-	background: -ms-radial-gradient(center, ellipse cover, rgba(255,239,156,1) 0%, rgba(255,220,45,1) 100%);
-	background: radial-gradient(ellipse at center, rgba(255,239,156,1) 0%, rgba(255,220,45,1) 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffef9c', endColorstr='#ffdc2d', GradientType=1 );
-	background-attachment: fixed;
 }
 
 section {
-	padding-top: 150px;
-	height: 800px;
 }
 
 a.navbar-brand i.fa-home {
 	font-size: 35px;
 	line-height: 20px;
-	color: #ffdc2d;
 }
 
 footer {
