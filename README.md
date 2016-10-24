@@ -1,2 +1,0 @@
-bradleyhamm.github.io
-=====================
