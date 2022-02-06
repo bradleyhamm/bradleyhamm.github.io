@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Brad Hamm - Software Engineer
+
+[LinkedIn](https://www.linkedin.com/in/bradhamm/) - [GitHub](https://github.com/bradleyhamm/)
+
+
+-----
 
 You can use the [editor on GitHub](https://github.com/bradleyhamm/bradleyhamm.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
