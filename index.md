@@ -2,7 +2,9 @@
 
 [LinkedIn](https://www.linkedin.com/in/bradhamm/)
 
-[GitHub](https://github.com/bradleyhamm/)
+[![GitHub](https://s3.us-west-1.amazonaws.com/bradleyhamm.com/icons/icon-github.svg)](https://github.com/bradleyhamm/)
+
+
 
 ### Quick Links
 
