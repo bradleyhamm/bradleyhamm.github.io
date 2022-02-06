@@ -1,8 +1,1 @@
-locale: en-US
-social:
-  type: Person
-  links:
-    - https://www.linkedin.com/in/bradhamm/
-timezone: America/Los_Angeles
 theme: jekyll-theme-slate
-title: Brad Hamm - Software Engineer
