@@ -1,6 +1,7 @@
 ## Brad Hamm - Software Engineer
 
 [LinkedIn](https://www.linkedin.com/in/bradhamm/)
+
 [GitHub](https://github.com/bradleyhamm/)
 
 
