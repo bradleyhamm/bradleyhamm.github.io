@@ -7,9 +7,4 @@
 
 ### Quick Links
 
-#### Socials
-
-
-#### Side Projects
-
 [Audio Recorder](https://bradleyhamm.github.io/audio-recorder/)
