@@ -1,8 +1,8 @@
-## Brad Hamm - Software Engineer
+### Socials
 
-[LinkedIn](https://www.linkedin.com/in/bradhamm/)
+:man_technologist: [LinkedIn](https://www.linkedin.com/in/bradhamm/)
 
-[GitHub](https://github.com/bradleyhamm/)
+:octocat: [GitHub](https://github.com/bradleyhamm/)
 
 
 ### Quick Links
